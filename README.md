@@ -1,4 +1,4 @@
-Even or odd.py: Check if a Number is Even or Odd
+Even or odd.py: Check if a Number is Even or Odd.
 Problem Statement:A Python program that:
 1. 	Takes an integer input from the user.
 2. 	Checks whether the number is even or odd using an if-else statement.
@@ -6,7 +6,7 @@ Problem Statement:A Python program that:
 
 
 
-Loop.py: Sum of Integers from 1 to 50 Using a Loop
+Loop.py: Sum of Integers from 1 to 50 Using a Loop.
  
 Problem Statement:A Python program that:
 1.   Uses a for loop to iterate over numbers from 1 to 50.
